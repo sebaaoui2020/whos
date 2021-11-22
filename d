@@ -35,23 +35,38 @@
   },
   "GuideContent": [
     {
-      "title": "Route 1",
-      "description": "Drop down the roof onto the mattress below and make your way to the check point. You will zig zag your way through the crates and boxes and go left.At the end of the roof is a power line, you will go down it, and it crosses with another line at the end that you’ll fall onto. The 2nd piece of bread is in the middle of this 2nd line. "
+      "title": "Step 1",
+      "description": "Here is an explanation of how to complete each challenge in Challenges mode, earning you the achievement “Champion of the House!”
+This guide is referring the the “Challenges” mode that you can access through the main menu.
+It took me a second to figure these out, so I thought I would share. Thanks for reading!
+Clean Toys
+Objective: Put away the baby’s toys
+Instruction: Pick up the toys and place them into the toybox."
+
     },
     {
-      "title": "Route 2",
-      "description": "Go to the left of the tiny flower pot to get onto the power lines, If you go right you’ll hit the flower pot and bounce down onto Route 1 again.
+      "title": "Step 2",
+      "description": "Clean the Pool
+Objective: Remove foreign objects from the pool
+Instruction: Jump on in, and grab and toss out the four balls Pick up the Poop.
+Objective: Throw away the kitchen poops
+Instruction: Select each poop and drag them to the trash can, where they will disappear on impact.
+There are 7 poops hidden, all within the kitchen.
+They are located:In the fruit bowl.In front of the fridge.In the freezer.Inside of the stove."
 
-Head across the power lines, and take the next 2 lines. You will land on a flower bed, and go around the roof to the left. There is a long power line here, with a piece of bread. Getting on the line can be tricky. You will now meet up with Route 1 and 3."
+
     },
     {
-      "title": "Route 3",
-      "description": "Instead of going left, go straight after the checkpoint.
+      "title": "Step 3",
+      "description": "Put Dishes Away
+Objective: Place the dishes in the kitchen cupboards
+Instruction: There are 5 plates on the counter, 5 glasses on the counter, and 3 glasses in the sink.
+One at a time, pick the dishes up and place them into the black cabinets.
+The glasses are delicate, so take short steps as to not build up too much momentum."
 
-You will roll along the power lines and into a long gutter, which takes you along to a sloped roof that drops you onto a flower bed. There is a check point here. Take the next wires to the bread piece.
-
-Zigzag through the crates after you land on the next roof, and turn right. Be careful, there is no railing to keep you from falling. There will be powerlines on the next roof."
 
     }
   ]
 }
+
+
